@@ -1,6 +1,6 @@
 # 📝 React To-Do List App
 
-A beautiful and functional To-Do List built using **React**. This app allows users to:
+### A beautiful and functional To-Do List built using **React**. This app allows users to:
 
 - ✅ Add tasks (via a button or by pressing `Enter`)
 - ✏️ Edit and update tasks
@@ -16,3 +16,15 @@ A beautiful and functional To-Do List built using **React**. This app allows use
 - **Toggle Complete/Undo**: Click the **Complete/Undo** toggle button to mark a task as done (strikethrough) or undo it.
 - **Delete Task**: Remove a task permanently by clicking the **Delete** button.
 - **Clean UI**: A polished user interface with a visually appealing color theme.
+
+### Installation:-
+
+1.Clone the repository:-
+git clone https://github.com/Gagan-chandru/To-Do-List-using-react.git
+
+2.Install dependencies:-
+- cd To-Do-List-using-react
+- npm install
+
+3.Start the app:-
+npm start
