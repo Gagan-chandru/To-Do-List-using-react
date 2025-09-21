@@ -15,7 +15,7 @@
 - **Edit Task**: Click the **Edit** button to modify a task. Click **Update** or press `Enter` to save changes.
 - **Toggle Complete/Undo**: Click the **Complete/Undo** toggle button to mark a task as done (strikethrough) or undo it.
 - **Delete Task**: Remove a task permanently by clicking the **Delete** button.
-- **Clean UI**: A polished user interface with a visually appealing color theme.
+- **Clean UI**: A polished and **responsive** user interface with a visually appealing color theme and.
 
 ### Installation:-
 
