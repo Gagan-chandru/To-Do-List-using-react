@@ -1,5 +1,7 @@
 ## 🔗 [Live Demo](https://to-do-list-react-gagan.netlify.app)
 
+[![TO-DO-LIST](https://img.shields.io/badge/🚀%20Live%20Demo-Click%20Here-brightgreen?style=for-the-badge)](https://react-calculator-gagan.netlify.app)
+
 # 📝 React To-Do List App
 
 ### A beautiful and functional To-Do List built using **React**. This app allows users to:
