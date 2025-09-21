@@ -1,3 +1,5 @@
+## 🔗 [Live Demo](https://to-do-list-react-gagan.netlify.app)
+
 # 📝 React To-Do List App
 
 ### A beautiful and functional To-Do List built using **React**. This app allows users to:
@@ -20,11 +22,11 @@
 ### Installation:-
 
 1.Clone the repository:-
-git clone https://github.com/Gagan-chandru/To-Do-List-using-react.git
+- git clone https://github.com/Gagan-chandru/To-Do-List-using-react.git
 
 2.Install dependencies:-
 - cd To-Do-List-using-react
 - npm install
 
 3.Start the app:-
-npm start
+- npm start
